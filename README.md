@@ -108,7 +108,7 @@ The dashboard presents KPI cards and visual breakdowns for business performance,
 The Power BI report is stored in `PowerBI_Dashboard/`. The screenshot below is the filtered view supplied for this project; its KPI values may change when the dashboard slicers are changed.
 
 <p align="center">
-  <img src="PowerBI_Dashboard/MSME_Business_Performance_PowerBI_Dashboard.png" alt="MSME Business Performance Power BI Dashboard" width="100%">
+  <img src="https://github.com/souravpatra82/MSME-Business-Performance-Analysis/blob/4004de56462a7d9d85b9f6aa08afc7c4031c4318/PowerBI_Dashboard/MSME_Business_Performance_PowerBI_Dashboard.png.png" alt="MSME Business Performance Power BI Dashboard" width="100%">
 </p>
 
 <hr>
@@ -118,7 +118,7 @@ The Power BI report is stored in `PowerBI_Dashboard/`. The screenshot below is t
 The Excel dashboard includes KPI cards, revenue by industry and state, government scheme application status, and interactive slicers.
 
 <p align="center">
-  <img src="Excel_Dashboard/MSME_Business_Performance_Excel_Dashboard.png" alt="MSME Business Performance Excel Dashboard" width="100%">
+  <img src="https://github.com/souravpatra82/MSME-Business-Performance-Analysis/blob/4004de56462a7d9d85b9f6aa08afc7c4031c4318/Excel_Dashboard/MSME_Business_Performance_Excel_Dashboard.png.png" alt="MSME Business Performance Excel Dashboard" width="100%">
 </p>
 
 <hr>
